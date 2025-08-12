@@ -16,19 +16,19 @@ body {
   min-height: 100vh;
   width: 100%;
   padding: 20px;
-  background-color: #e5e5e5;
+  background-color: #0b0b0b;
 }
 
 .container {
   width: 375px;
-  background-color: #f4f4f4;
+  background-color: iced-white;
 }
 
 header {
   display: flex;
   justify-content: center;
   align-items: center;
-  background-color: #1b83e2 ;
+  background-color: #047b44 ;
   height: 66px;
 }
 
@@ -43,7 +43,7 @@ main {
 
 label {
   font-size: 14px;
-  color: #777777;
+  color: #0d0d0d;
 }
 
 select {
@@ -80,7 +80,7 @@ input[type=number]::-webkit-inner-spin-button {
 }
 
 button {
-  background: #1b83e2;
+  background: #02e464;
   border-radius: 25px;
   height: 48px;
   cursor: pointer;
@@ -102,7 +102,7 @@ button:active {
 }
 
 section {
-  border: 1px solid #1B83E2;
+  border: 1px solid #03f1fa;
   border-radius: 4px;
   display: flex;
   flex-direction: column;
@@ -124,7 +124,7 @@ section {
 }
 
 .currency-value {
-  color: #1B83E2;
+  color: #8eee08;
   font-weight: 700;
   font-size: 20px;
 }
